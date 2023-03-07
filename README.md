@@ -44,7 +44,9 @@ Lauching mfoc, you will need to pass options, see
 ```
 mfoc-hardnested -h
 ```
-
 # Pre-built Windows binary
-[Uploading mfoc-hardnested.zip…]()
+[mfoc-hardnested.zip](https://github.com/wwin3286tw/mfoc-hardnested/files/10906000/mfoc-hardnested.zip)
+
+
+
 
